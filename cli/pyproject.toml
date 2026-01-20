@@ -23,7 +23,7 @@ dev = [
 ]
 
 [project.scripts]
-provisioner = "provisioner:cli"
+provisioner = "provisioner_cli:cli"
 
 [tool.setuptools]
-py-modules = ["provisioner"]
+py-modules = ["provisioner_cli"]
