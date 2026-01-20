@@ -366,3 +366,4 @@ def delete_bucket(ctx: click.Context, name: str, empty_first: bool, force: bool)
 
 if __name__ == "__main__":
     cli()
+
